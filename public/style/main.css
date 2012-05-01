@@ -1,0 +1,41 @@
+
+body{
+
+  background-image: url('http://dl.dropbox.com/u/10021156/NsLayout/img/white_tiles.png');   
+  padding-top: 60px;
+        padding-bottom: 40px; 
+        margin: 0 auto;   
+    
+}
+#narrLogo {
+  margin: 0 auto;   
+}
+
+#tweetList {
+	list-style: none;
+}
+
+.hero-unit {
+	background-color : transparent
+
+}
+.container-fluid {
+	margin-left: auto;
+	margin-right:auto;
+	width:400px;
+}
+
+
+.head {
+	
+}
+
+.tail {
+
+
+}
+
+.userId {
+	display: inline-block;
+}
+
